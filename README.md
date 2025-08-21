@@ -16,8 +16,8 @@ Features:
 
 ✅ Exported results for reproducibility
 
-Tech Stack
-Python 
-Pandas, NumPy
-Matplotlib, Seaborn
+Tech Stack:
+Python,
+Pandas, NumPy,
+Matplotlib, Seaborn,
 Scikit-learn
